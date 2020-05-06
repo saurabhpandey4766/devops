@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git push
+
+curl -u "admin:654e4e09e8154d8a9c902de0621b45ef"  http://192.168.43.209:8080/job/devops/build?token=hieveryone
